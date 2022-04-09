@@ -20,4 +20,5 @@ _🦌 网页小游戏 🥛_
 
 小罗生日快乐！！！
 
-修改自[吃掉小鹿乃]（https://github.com/arcxingye/EatKano）
+修改自
+[吃掉小鹿乃]（https://github.com/arcxingye/EatKano）
