@@ -22,4 +22,4 @@ _🦌 网页小游戏 🥛_
 
 修改自
 
-[吃掉小鹿乃]（https://github.com/arcxingye/EatKano）
+[吃掉小鹿乃](https://17y9e81.github.io/xiaoluo/)
